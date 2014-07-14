@@ -63,6 +63,7 @@ if ($count >= 7) {
 ?>
 		array(
 			'class'=>'bootstrap.widgets.TbButtonColumn',
+			'template'=>'{update}{delete}',
 		),
 	),
 )); ?>
